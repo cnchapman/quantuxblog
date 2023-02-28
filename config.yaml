@@ -33,38 +33,37 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: A blog for Quant UX Research
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: 
   mainSections:
-    - blog
+    - post
     - project
     - talk
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: Seattle, Washington
+  orgName: Chris Chapman
   sharing_image: /img/papillons.jpg
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/cnchapman
     - icon: mastodon
       icon_pack: fab
       url: https://mastodon.social/@cnchapman
+    - icon: github
+      icon_pack: fab
+      url: https://github.com/cnchapman
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
   theme: sky
-  twitter: apreshill
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
     repo_name: apreshill/apero
     theme: boxy-light
-    use_utterances: yes
+    use_utterances: no
 taxonomies:
   category: categories
   series: series
@@ -84,30 +83,18 @@ menu:
       url: /contributors/
       weight: 3
   header:
+    - name: Blog
+      title: Blog
+      url: /post/
+      weight: 1
+    - name: Publications
+      title: Project Portfolio
+      url: /project/
+      weight: 2
     - name: About
       title: About Blogophonic
       url: /about/
-      weight: 1
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
 privacy:
   disqus:
     disable: no
