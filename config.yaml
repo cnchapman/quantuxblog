@@ -33,7 +33,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A blog for Quant UX Research
+  description: 
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
   logo: 
@@ -48,6 +48,9 @@ params:
   orgName: Chris Chapman
   sharing_image: /img/papillons.jpg
   social:
+    - icon: linkedin
+      icon_pack: fab
+      url: https://www.linkedin.com/in/cnchapman/
     - icon: mastodon
       icon_pack: fab
       url: https://mastodon.social/@cnchapman
