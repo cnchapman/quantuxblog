@@ -44,7 +44,7 @@ params:
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Seattle, Washington
+  orgLocal: 
   orgName: Chris Chapman
   sharing_image: /img/papillons.jpg
   social:
