@@ -1,8 +1,8 @@
-baseURL: /
+baseURL: https://cnchapman.org/
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: Quant UX Blog
+author: Chris Chapman
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -50,25 +50,10 @@ params:
   social:
     - icon: github
       icon_pack: fab
-      url: https://github.com/apreshill/apero
-    - icon: facebook-square
+      url: https://github.com/cnchapman
+    - icon: mastodon
       icon_pack: fab
-      url: https://www.facebook.com/hashtag/ap%C3%A9ro
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
+      url: https://mastodon.social/@cnchapman
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
