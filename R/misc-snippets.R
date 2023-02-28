@@ -4,6 +4,7 @@ blogdown::new_post(title="TITLE",
                    ext = ".Rmd")
 
 
+blogdown::build_site()
 
 #############
 file.edit(".Rprofile") # edit .Rprofile in HOME
@@ -15,3 +16,4 @@ sample = FALSE,
 force = TRUE,
 empty_dirs = TRUE,
 install_hugo = FALSE)
+
