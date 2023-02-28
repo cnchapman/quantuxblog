@@ -60,7 +60,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  theme: plum
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'

@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: First post
 author: Chris Chapman
 date: '2023-02-28'
 slug: []
