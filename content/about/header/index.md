@@ -7,7 +7,8 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-This blog is a work in progress, started 2023-02-28 
+This blog is a work in progress, started 2023-02-28.
 
-_Reference for self_:  
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+The author (Chris Chapman; possibly with guest authors) will use it
+to discuss topics of interest about Quantitative UX Research. 
+And sometimes related fields or topics such as research ethics and philosophy.

@@ -90,10 +90,6 @@ menu:
       title: Blog
       url: /post/
       weight: 1
-    - name: Publications
-      title: Project Portfolio
-      url: /project/
-      weight: 2
     - name: About
       title: About Blogophonic
       url: /about/
