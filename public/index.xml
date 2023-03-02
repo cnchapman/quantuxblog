@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quant UX Blog</title>
+    <title>Quant UX Blog on Quant UX Blog (under construction)</title>
     <link>https://cnchapman.org/</link>
-    <description>Recent content on Quant UX Blog</description>
+    <description>Recent content in Quant UX Blog on Quant UX Blog (under construction)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cnchapman.org/index.xml" rel="self" type="application/rss+xml" />
@@ -307,10 +307,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cnchapman.org/contributors/</guid>
-      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
-Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+      <description></description>
     </item>
     
     <item>
@@ -319,7 +316,9 @@ Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cnchapman.org/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+      <description>These blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+The CC-BY-SA 4.0 License gives permission to share, use, and adapt the content here &amp;ndash; including example analyses and R code &amp;ndash; provided that the author receives attribution in some form.
+A suggested attribution is: C. Chapman (YEAR), &amp;ldquo;Title of post&amp;rdquo;, at Quant UX Blog, cnchapman.org.</description>
     </item>
     
   </channel>
